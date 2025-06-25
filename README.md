@@ -1,8 +1,6 @@
 <!-- Banner Image -->
 ![banner](https://github.com/FozilatunNaherC231447/FozilatunNaherC231447/blob/main/Banner.png)
 
-<!-- Profile Picture Suggestion -->
-<!-- খুব বেশি ফরমাল না খুব বেশি কেজুয়াল না এমন একটা ছবি অ্যাড করুন (যেমন: সাদা বা সলিড ব্যাকগ্রাউন্ড + স্মার্ট কেজুয়াল ড্রেস) -->
 
 ### 👋 Hi! I'm **Fozilatun Naher**
 #### 💻 Software Developer | Web Developer | Open Source Contributor
