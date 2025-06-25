@@ -7,7 +7,7 @@
 ### 👋 Hi! I'm **Fozilatun Naher**
 #### 💻 Software Developer | Web Developer | Open Source Contributor
 📍 **Location:** Chattogram, Bangladesh  
-✉️ **Email:** [fozilatunnaher@example.com](mailto:fozilatunnaherc231447@gmail.com)
+✉️ **Email:** [fozilatunnaherc231447@gmail.com]
 
 ---
 
@@ -39,36 +39,43 @@ I am a passionate developer dedicated to exploring new technologies and building
 
 ---
 
-## Github Stats
+## GitHub Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
+| Top Languages | GitHub Stats |
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FozilatunNaherC231447&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FozilatunNaherC231447&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+
 
 ---
 
 ### 📌 Pinned Repositories
 
-#### ✅ [Project 1 Name](https://github.com/FozilatunNaherC231447/project1)
+#### ✅ (Project 1)
 
 **Description:**  
-🌟 A modern website for seamless online booking and trip planning.  
-🔥 Main Tech Stack: `React`, `TailwindCSS`, `Node.js`  
-🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
+🌟 A responsive and feature-rich hotel booking platform that allows users to browse rooms, make bookings, cancel or update reservations, and leave reviews — all through a seamless and intuitive interface.
 
-#### ✅ [Project 2 Name](https://github.com/FozilatunNaherC231447/project2)
+🔥 Main Tech Stack: React, TailwindCSS, Firebase, Node.js, JWT
 
-**Description:**  
-🌟 An e-commerce platform with user-friendly design and advanced cart features.  
-🔥 Main Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`  
-🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
+🌐 Live Demo: https://hotel-booking-platform-3ff8b.web.app/
 
-#### ✅ [Project 3 Name](https://github.com/FozilatunNaherC231447/project3)
+#### ✅ (Project 2)
 
 **Description:**  
-🌟 A productivity app for managing daily tasks and goal tracking.  
-🔥 Main Tech Stack: `Vue.js`, `Firebase`  
-🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
+🌟 A full‑stack, mobile‑responsive Plant Care Tracker that empowers users to manage and monitor their indoor and outdoor plants. Features include personalized dashboards, sorting by care frequency, and secure user authentication for a seamless experience across devices.
+
+🔥 Main Tech Stack: React, TailwindCSS, Node.js, Express, MongoDB, Firebase
+
+🌐 Live Demo: https://plant-care-cd837.web.app/
+
+#### ✅ (Project 3)
+
+**Description:**  
+🌟 A modern App Store built with React and Firebase, allowing users to browse, install, and review apps. Features include secure user authentication, profile management, protected app details, and interactive install/uninstall simulations for a seamless experience.
+
+🔥 Main Tech Stack: React, Vite, Firebase, TailwindCSS
+
+🌐 Live Demo: https://app-store-af583.web.app/
 
 ---
 
