@@ -1,21 +1,25 @@
 <!-- Banner Image -->
 ![banner](https://github.com/FozilatunNaherC231447/FozilatunNaherC231447/blob/main/Banner.png)
 
-### 👋 Hi there! Fozilatun Naher .
+<!-- Profile Picture Suggestion -->
+<!-- খুব বেশি ফরমাল না খুব বেশি কেজুয়াল না এমন একটা ছবি অ্যাড করুন (যেমন: সাদা বা সলিড ব্যাকগ্রাউন্ড + স্মার্ট কেজুয়াল ড্রেস) -->
+
+### 👋 Hi! I'm **Fozilatun Naher**
 #### 💻 Software Developer | Web Developer | Open Source Contributor
+📍 **Location:** Dhaka, Bangladesh  
+✉️ **Email:** [fozilatunnaher@example.com](mailto:fozilatunnaher@example.com)
 
 ---
 
 #### 👇 About Me
-I am a passionate developer who loves exploring new technologies, building impactful projects, and sharing knowledge with the developer community.  
-I have a keen interest in modern web technologies, performance optimization, and creating beautiful, functional user interfaces.
+I am a passionate developer dedicated to exploring new technologies and building impactful, user-centric applications. I have a keen interest in modern web technologies, performance optimization, and creating beautiful, functional interfaces that solve real-world problems.
 
 ---
 
-#### ⚡️ Current Activities
-- 👨‍💻 Currently exploring **NEXT.JS**
-- 🚀 Working on a **tourism website**
-- 💡 Writing articles about **frontend technologies**
+#### ⚡️ Currently Working On
+- 👨‍💻 Exploring **Next.js** and advanced React features
+- 🚀 Developing a **Tourism website** for seamless travel planning
+- 💡 Writing articles about **frontend best practices** and coding tips
 
 ---
 
@@ -30,40 +34,67 @@ I have a keen interest in modern web technologies, performance optimization, and
 ---
 
 #### 🌐 Social Links
-- 🌍 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🌍 [Website](https://yourwebsite.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fozilatun-naher)  
+- 🐙 [GitHub](https://github.com/FozilatunNaherC231447)
 
 ---
 
 #### 📈 Stats
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=FozilatunNaherC231447&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FozilatunNaherC231447&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FozilatunNaherC231447)
 
 ---
 
 ### 📌 Pinned Repositories
 
-#### ✅ [Project 1 Name](https://github.com/yourusername/project1)
+#### ✅ [Project 1 Name](https://github.com/FozilatunNaherC231447/project1)
 
 **Description:**  
-🌟 A brief overview of the project  
+🌟 A modern website for seamless online booking and trip planning.  
 🔥 Main Tech Stack: `React`, `TailwindCSS`, `Node.js`  
 🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
 
-#### ✅ [Project 2 Name](https://github.com/yourusername/project2)
+#### ✅ [Project 2 Name](https://github.com/FozilatunNaherC231447/project2)
 
 **Description:**  
-🌟 A brief overview of the project  
+🌟 An e-commerce platform with user-friendly design and advanced cart features.  
 🔥 Main Tech Stack: `Next.js`, `MongoDB`, `TailwindCSS`  
 🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
 
-#### ✅ [Project 3 Name](https://github.com/yourusername/project3)
+#### ✅ [Project 3 Name](https://github.com/FozilatunNaherC231447/project3)
 
 **Description:**  
-🌟 A brief overview of the project  
+🌟 A productivity app for managing daily tasks and goal tracking.  
 🔥 Main Tech Stack: `Vue.js`, `Firebase`  
 🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
 
 ---
+
+### ⚡️ Pinned Repository (Example) — `Project 1 Name`
+
+#### 📖 Overview
+An online booking website for seamless trip planning.
+
+#### 🖼️ Screenshot
+![Screenshot](https://yourprojecturl/screenshot.png)
+
+#### ⚡️ Main Technologies
+- React
+- TailwindCSS
+- Node.js
+
+#### ✨ Main Features
+- Responsive design
+- User-friendly interface
+- Secure booking and payments
+- Integrated review and rating system
+
+#### 📦 Dependencies
+- react
+- tailwindcss
+- axios
+- dotenv
+
+
