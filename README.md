@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![banner](https://yourbannerurl.com/banner.png)
+![banner](https://github.com/FozilatunNaherC231447/FozilatunNaherC231447/blob/main/Banner.png)
 
 ### 👋 Hi! I’m John Doe
 #### 💻 Software Developer | Web Developer | Open Source Contributor
