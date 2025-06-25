@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![banner](https://github.com/FozilatunNaherC231447/FozilatunNaherC231447/blob/main/Banner.png)
 
-### 👋 Hi! I’m John Doe
+### 👋 Hi there! Fozilatun Naher .
 #### 💻 Software Developer | Web Developer | Open Source Contributor
 
 ---
