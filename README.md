@@ -59,7 +59,7 @@ I am a passionate developer dedicated to exploring new technologies and building
 
 🌐 Live Demo: https://hotel-booking-platform-3ff8b.web.app/
 
-#### ✅ (Project 2)
+#### ✅ [Project 2 Plant Care](https://github.com/FozilatunNaherC231447/Plant-Care-Client-Side)
 
 **Description:**  
 🌟 A full‑stack, mobile‑responsive Plant Care Tracker that empowers users to manage and monitor their indoor and outdoor plants. Features include personalized dashboards, sorting by care frequency, and secure user authentication for a seamless experience across devices.
@@ -68,7 +68,7 @@ I am a passionate developer dedicated to exploring new technologies and building
 
 🌐 Live Demo: https://plant-care-cd837.web.app/
 
-#### ✅ (Project 3)
+#### ✅ [Project 3 App Store](https://github.com/FozilatunNaherC231447/App-Store)
 
 **Description:**  
 🌟 A modern App Store built with React and Firebase, allowing users to browse, install, and review apps. Features include secure user authentication, profile management, protected app details, and interactive install/uninstall simulations for a seamless experience.
