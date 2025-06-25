@@ -6,8 +6,8 @@
 
 ### 👋 Hi! I'm **Fozilatun Naher**
 #### 💻 Software Developer | Web Developer | Open Source Contributor
-📍 **Location:** Dhaka, Bangladesh  
-✉️ **Email:** [fozilatunnaher@example.com](mailto:fozilatunnaher@example.com)
+📍 **Location:** Chattogram, Bangladesh  
+✉️ **Email:** [fozilatunnaher@example.com](mailto:fozilatunnaherc231447@gmail.com)
 
 ---
 
@@ -34,8 +34,7 @@ I am a passionate developer dedicated to exploring new technologies and building
 ---
 
 #### 🌐 Social Links
-- 🌍 [Website](https://yourwebsite.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fozilatun-naher)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fozilatun-naher-320883284/)  
 - 🐙 [GitHub](https://github.com/FozilatunNaherC231447)
 
 ---
