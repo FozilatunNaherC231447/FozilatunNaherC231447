@@ -18,18 +18,18 @@ I am a passionate developer dedicated to exploring new technologies and building
 
 #### ⚡️ Currently Working On
 - 👨‍💻 Exploring **Next.js** and advanced React features
-- 🚀 Developing a **Tourism website** for seamless travel planning
+- 🚀 Developing a **Smart Recipe Generator** to help create delicious meals quickly and easily
 - 💡 Writing articles about **frontend best practices** and coding tips
 
 ---
 
-#### 🛠️ Skills
-![HTML5](https://img.shields.io/badge/-HTML5-ff6600?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+|       Skills Overview        | Technologies                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)                                                      |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                   |
+| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)                                                          |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 ---
 
@@ -39,10 +39,11 @@ I am a passionate developer dedicated to exploring new technologies and building
 
 ---
 
-#### 📈 Stats
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=FozilatunNaherC231447&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FozilatunNaherC231447&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FozilatunNaherC231447)
+## Github Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
 
 ---
 
@@ -70,30 +71,5 @@ I am a passionate developer dedicated to exploring new technologies and building
 🌐 **Live Demo:** [https://liveurl.com](https://liveurl.com)
 
 ---
-
-### ⚡️ Pinned Repository (Example) — `Project 1 Name`
-
-#### 📖 Overview
-An online booking website for seamless trip planning.
-
-#### 🖼️ Screenshot
-![Screenshot](https://yourprojecturl/screenshot.png)
-
-#### ⚡️ Main Technologies
-- React
-- TailwindCSS
-- Node.js
-
-#### ✨ Main Features
-- Responsive design
-- User-friendly interface
-- Secure booking and payments
-- Integrated review and rating system
-
-#### 📦 Dependencies
-- react
-- tailwindcss
-- axios
-- dotenv
 
 
