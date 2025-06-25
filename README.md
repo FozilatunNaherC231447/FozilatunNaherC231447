@@ -50,7 +50,7 @@ I am a passionate developer dedicated to exploring new technologies and building
 
 ### 📌 Pinned Repositories
 
-#### ✅ (Project 1)
+#### ✅ [Project 1 Hotel Booking](https://github.com/FozilatunNaherC231447/Hotel-Booking-Client-Side)
 
 **Description:**  
 🌟 A responsive and feature-rich hotel booking platform that allows users to browse rooms, make bookings, cancel or update reservations, and leave reviews — all through a seamless and intuitive interface.
