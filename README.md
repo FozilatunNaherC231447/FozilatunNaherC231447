@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![banner](https://github.com/FozilatunNaherC231447/FozilatunNaherC231447/blob/main/Banner.png)
+![banner](https://github.com/FozilatunNaherC231447/FozilatunNaherC231447/blob/main/Banner%20.png)
 
 
 ### 👋 Hi! I'm **Fozilatun Naher**
